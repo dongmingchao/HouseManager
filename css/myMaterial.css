@@ -1,0 +1,322 @@
+.btn {
+    background: transparent;
+    border: none;
+    font-size: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0 16px;
+    position: relative;
+    overflow: hidden;
+    color: inherit;
+    display: inline-block;
+    will-change: box-shadow;
+    transition: box-shadow 0.2s cubic-bezier(0.4, 0, 1, 1), background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1), color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.btn-icon,
+.drawer-icon {
+    position: relative;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    padding: 0;
+}
+
+.hide {
+    pointer-events: none;
+    position: absolute;
+    right: 4px;
+    top: 0;
+    opacity: 0;
+    transition: all 0.6s
+}
+
+.btn:hover {
+    background-color: rgba(0, 0, 0, 0.12);
+}
+
+.btn:focus:not(:active) {
+    background-color: rgba(158, 158, 158, 0.2);
+}
+
+.btn:active {
+    background-color: rgba(158, 158, 158, 0.4);
+}
+
+.btn-fab {
+    background: rgba(158, 158, 158, 0.20);
+    box-shadow: 0 1px 1.5px 0 rgba(0, 0, 0, 0.12), 0 1px 1px 0 rgba(0, 0, 0, 0.24);
+}
+
+.btn-fab:active {
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+    background-color: rgba(158, 158, 158, 0.40);
+}
+
+
+/*--------------------------------------------------*/
+
+/*模块化特效*/
+.shadow {
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.2);
+}
+.ripple{
+    overflow: hidden;
+}
+.ripple-animate{
+    background-color:rgba(0,0,0,0.2);
+    height: 0;
+    width: 0;
+    border-radius: 50%;
+    position:absolute;
+}
+
+
+/*--------------------------------------------------*/
+
+.card {
+    position: relative;
+    display: flex;
+    float: left;
+    overflow: hidden;
+    min-width: 330px;
+    min-height: 200px;
+    margin: 16px;
+    transition: box-shadow 0.5s;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+}
+
+.card-shadow:hover {
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.2);
+}
+
+.card_tit {
+    align-items: center;
+    display: flex;
+    padding: 16px 16px;
+    box-sizing: border-box;
+}
+
+.card_titext {
+    align-self: flex-end;
+    color: inherit;
+    display: flex;
+    font-size: 24px;
+    line-height: normal;
+    margin: 0;
+}
+
+.card_text {
+    color: rgba(0, 0, 0, 0.54);
+    font-size: 1rem;
+    line-height: 18px;
+    overflow: hidden;
+    padding: 16px 16px;
+    width: 90%;
+}
+
+.card-border {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.card_actions {
+    font-size: 16px;
+    line-height: normal;
+    width: 100%;
+    background-color: transparent;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.card_menu {
+    position: absolute;
+    right: 16px;
+    top: 16px;
+}
+
+
+/*--------------------------------------------------*/
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*--------------------------------------------------*/
+
+.layout {
+    width: 100%;
+}
+
+.layout>.card {}
+
+
+/*--------------------------------------------------*/
+
+.header {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    min-height: 64px;
+    max-height: 1000px;
+    z-index: 3;
+    background-color: rgb(63, 81, 181);
+    color: rgb(255, 255, 255);
+    transition-duration: 0.2s;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-property: max-height, box-shadow;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.header>.title {
+    display: block;
+    padding: 0 40px 0 0;
+    position: relative;
+}
+
+
+/*--------------------------------------------------*/
+
+@media screen and (max-width: 375px) {
+    .header {
+        background-color: rgb(255, 255, 255);
+        color: rgb(63, 81, 181);
+    }
+}
+
+
+/*--------------------------------------------------*/
+
+.drawer-icon {
+    overflow: hidden;
+    z-index: 3;
+    display: block;
+}
+
+.drawer {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    width: 240px;
+    height: 100%;
+    max-height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    border-right: 1px solid rgb(224, 224, 224);
+    background: rgb(250, 250, 250);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    transition-duration: 0.2s;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-property: -webkit-transform;
+    transition-property: transform;
+    transition-property: transform, -webkit-transform;
+    color: rgb(66, 66, 66);
+    overflow: visible;
+    overflow-y: auto;
+    z-index: 5;
+}
+
+.drawer-hide {
+    -webkit-transform: translateX(-250px);
+    transform: translateX(-250px);
+}
+
+.drawer>h1 {
+    margin: 30px;
+}
+
+.item {
+    position: relative;
+    padding: 16px;
+    transition: all 0.4s;
+}
+
+.item:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.mul {}
+
+
+/*--------------------------------------------------*/
+
+.curtain {
+    pointer-events: none;
+    position: absolute;
+    opacity: 0;
+    z-index: 4;
+    width: 100%;
+    height: 100%;
+    visibility: hidden;
+    transition-property: background-color opacity;
+    background-color: transparent;
+    transition-duration: 0.2s;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.curtain-down {
+    pointer-events: auto;
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.5);
+    visibility: visible;
+}
+
+.move-right {
+    -webkit-transform: translateX(240px);
+    transform: translateX(240px);
+}
+
+.drawer>.menu {
+    background-color: transparent;
+    transition: height 0.5s;
+    overflow: hidden;
+}
+
+.switch{
+    margin-top: 4px;
+    margin-left: 3px;
+    background: rgba(0,0,0, 0.26);
+    width: 36px;
+    height:14px;
+    border-radius: 14px;
+    display: inline-block;
+}
+.switch_cir{
+    position: relative;
+    top: -3px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: rgb(250,250,250);
+    box-shadow:0 3px 4px 0 rgba(0, 0, 0, 0.14), 0 3px 3px -2px rgba(0, 0, 0, 0.2), 0 1px 8px 0 rgba(0, 0, 0, 0.12);
+    transition: all 0.5s;
+    left: -3px;
+}
+.item > .switch{
+    position: absolute;
+    right: 36px;
+}
+.drop{
+    background-color: transparent;
+    overflow: hidden;
+    height: 0;
+    transition: height 0.5s;
+}

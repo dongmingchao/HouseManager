@@ -1,0 +1,120 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>房产科管理员管理界面</title>
+    <link href="myMaterial.css" rel="stylesheet">
+    <link href="myIcon.css" rel="stylesheet">
+</head>
+<body>
+<header class="header shadow">
+    <button class="btn drawer-icon">
+        <div class="icon list"></div>
+    </button>
+    <span class="title">
+                房屋土地信息管理
+            </span>
+    <input type="text" name="search" placeholder="搜索">
+
+</header>
+<div class="drawer drawer-hide">
+    <div class="item ripple">
+        公共服务用房<div class="icon-triple"></div>
+    </div>
+    <div class="drop hideScroll">
+            <div class="item ripple">
+                图书馆
+                <div class="switch"></div>
+            </div>
+            <div class="item ripple">
+                展览馆
+                <div class="switch"></div>
+            </div>
+            <div class="item ripple">
+                公共教室
+                <div class="switch"></div>
+            </div>
+            <div class="item ripple">
+                机房
+                <div class="switch"></div>
+            </div>
+            <div class="item ripple">
+                体育场馆
+            </div>
+            <div class="item ripple">
+                学生组织活动中心
+            </div>
+            <div class="item ripple">
+                教工活动中心
+            </div>
+            <div class="item ripple">
+                档案馆
+            </div>
+    </div>
+    <div class="item ripple">
+        教学教辅科研单位用房<div class="icon-triple"></div>
+    </div>
+    <div class="drop hideScroll">
+        <div class="item ripple">
+            学院党政办公用房
+        </div>
+        <div class="item ripple">
+            教师工作用房
+        </div>
+        <div class="item ripple">
+            教学实验用房
+        </div>
+        <div class="item ripple">
+            辅助与学生用房
+        </div>
+        <div class="item ripple">
+            奖励与补助类用房
+        </div>
+    </div>
+    <div class="item ripple">
+        后勤保障用房<div class="icon-triple"></div>
+    </div>
+    <div class="drop hideScroll">
+        <div class="item ripple">
+            食堂
+        </div>
+        <div class="item ripple">
+            学生宿舍
+        </div>
+        <div class="item ripple">
+            教工宿舍
+        </div>
+        <div class="item ripple">
+            仓库
+        </div>
+        <div class="item ripple">
+            产业服务用房
+        </div>
+        <div class="item ripple">
+            医疗服务用房
+        </div>
+    </div>
+</div>
+<div class="card shadow"></div>
+<div class="card shadow" style="width: 500px"></div>
+<label id="realBtn" class="btn btn-fab">
+    <input type="file" id="fileInput" name="file" style="left:-9999px;position:absolute;">
+    <span>导入EXCEL数据</span>
+</label>
+</body>
+<script src="jquery.js"></script>
+<script src="myMaterial.js"></script>
+<script>
+    $("#fileInput").on('change',() =>{
+        var file = $("#fileInput").val();
+        var l = file.split('\\');
+        $("body").append("<div class='btn btn-fab' id='upload'>点击上传"+l[l.length-1]+"</div>");
+        $("#upload").click(()=>{
+            $.ajax({url:'uploadExcel',dataType,error:e =>{
+                alert("发生错误，错误码"+e.status+" "+e.statusText);
+            }});
+        });
+    });
+</script>
+</html>

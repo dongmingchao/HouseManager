@@ -1,0 +1,14 @@
+h1{
+	text-align:center;
+	color:darkred;
+}
+/*结合Label使用*/
+.toast{
+    font-size: 15px;
+    position:absolute;
+    bottom: 50;
+    text-align: center;
+    opacity: 0;
+    transform:rotate(9deg);
+    transition: All 0.3s ease-in-out;
+}

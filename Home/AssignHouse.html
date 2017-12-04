@@ -1,0 +1,68 @@
+<!doctype html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>分配房源</title>
+    <link rel="stylesheet" href="../css/base.css">
+</head>
+<style>
+    
+    .show {
+        background-color: cornflowerblue;
+        height: 100%;
+        width: 30%;
+        float: left;
+    }
+    
+    .digest {
+        background-color: cadetblue;
+        padding: 16px;
+        height: 100%;
+    }
+    
+    .item {
+        background-color: antiquewhite;
+        padding: 16px;
+        position: relative;
+    }
+    
+    .fit {
+        padding: 16px;
+        background-color: azure;
+    }
+
+</style>
+
+<body>
+    <nav style="height: 50px">分配房源</nav>
+    <div class="show">
+        <input type="text" placeholder="申请人">
+        <input type="text" placeholder="申请房源">
+        <button>查询</button>
+        <div class="item">条目
+            <label style="position: absolute;left: 160px">已处理</label>
+            <label style="position: relative;left: 160px">通过</label>
+        </div>
+        <div class="item">条目</div>
+        <div class="item">条目</div>
+        <div class="item">条目</div>
+        <div class="item">条目</div>
+        <div class="item">条目</div>
+        <div class="item">条目</div>
+    </div>
+    <div class="digest">
+        <h3>申请人姓名</h3>
+        <div class="fit">符合条件的房源</div>
+        <div class="fit">符合条件的房源</div>
+        <div class="fit">符合条件的房源</div>
+        <div class="fit">符合条件的房源</div>
+        <div class="fit">符合条件的房源</div>
+        <input type="radio">手动分配
+        <input type="radio">自动分配
+        <button>确定</button>
+    </div>
+</body>
+
+</html>

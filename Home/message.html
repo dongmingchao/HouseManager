@@ -1,0 +1,72 @@
+<!doctype html>
+
+
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>信息展示</title>
+    <link rel="stylesheet" href="../css/base.css">
+</head>
+<style>
+    
+    .show {
+        background-color: cornflowerblue;
+        height: 100%;
+        width: 30%;
+        float: left;
+    }
+    
+    .item {
+        background-color: antiquewhite;
+        padding: 16px;
+        position: relative;
+    }
+    
+    .digest {
+        background-color: cadetblue;
+        padding: 16px;
+        height: 100%;
+    }
+    
+    .fit {
+        padding: 16px;
+        background-color: azure;
+    }
+</style>
+
+<body>
+    <nav style="height: 50px">变动登记</nav>
+    <div class="show">
+        <input type="text" placeholder="要处理的房产"><br> 属于
+        <select>
+          <option>党政机关用房</option>
+          <option>教学教辅科研单位用房</option>
+          <option>公共服务用房</option>
+          <option>后勤保障用房</option>
+          <option>其他用房</option>
+        </select><button>查询</button>
+        <div class="item">条目</div>
+        <div class="item">条目</div>
+        <div class="item">条目</div>
+        <div class="item">条目</div>
+        <div class="item">条目</div>
+        <div class="item">条目</div>
+        <div class="item">条目</div>
+    </div>
+    <div class="digest">
+        <h3>房间号</h3>
+        <div class="fit">变动的房产信息</div>
+        <div style="background-color: salmon;height: 200px">房间布局图</div>
+        <input type="text" placeholder="变动原因">
+        <input type="checkbox">调整
+        <input type="checkbox">合并
+        <input type="checkbox">拆除
+        <input type="checkbox">维修<br>
+        <input type="text">(如果维修)维修单位
+        <button>确定</button> {楼只有两个变动类型：维修，调整}
+    </div>
+
+</body>
+
+</html>
