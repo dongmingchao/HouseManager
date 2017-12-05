@@ -1,0 +1,9 @@
+{
+  "host": "127.0.0.1",
+  "user": "node",
+  "password": "cxz,./123",
+  "database": "fangdichan",
+  "port": 8889,
+  "waitForConnections":false,
+  "connectionLimit":2
+}

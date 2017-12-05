@@ -1,7 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9a04959-476e-4b5e-9187-97fdf36909f8" name="Default" comment="" />
+    <list default="true" id="f9a04959-476e-4b5e-9187-97fdf36909f8" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Server/config.json" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Home/signup.html" afterPath="$PROJECT_DIR$/Home/signup.html" />
+      <change beforePath="$PROJECT_DIR$/Server/config.js" afterPath="$PROJECT_DIR$/Server/config.js" />
+      <change beforePath="$PROJECT_DIR$/Server/sqlDAO.js" afterPath="$PROJECT_DIR$/Server/sqlDAO.js" />
+      <change beforePath="$PROJECT_DIR$/Server/sqlTest.js" afterPath="$PROJECT_DIR$/Server/sqlTest.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bignumber.js/LICENCE" afterPath="$PROJECT_DIR$/node_modules/bignumber.js/LICENCE" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bignumber.js/README.md" afterPath="$PROJECT_DIR$/node_modules/bignumber.js/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bignumber.js/bignumber.js" afterPath="$PROJECT_DIR$/node_modules/bignumber.js/bignumber.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bignumber.js/bignumber.js.map" afterPath="$PROJECT_DIR$/node_modules/bignumber.js/bignumber.js.map" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bignumber.js/bignumber.min.js" afterPath="$PROJECT_DIR$/node_modules/bignumber.js/bignumber.min.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bignumber.js/bower.json" afterPath="$PROJECT_DIR$/node_modules/bignumber.js/bower.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bignumber.js/doc/API.html" afterPath="$PROJECT_DIR$/node_modules/bignumber.js/doc/API.html" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bignumber.js/package.json" afterPath="$PROJECT_DIR$/node_modules/bignumber.js/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/Changes.md" afterPath="$PROJECT_DIR$/node_modules/mysql/Changes.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/License" afterPath="$PROJECT_DIR$/node_modules/mysql/License" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/Readme.md" afterPath="$PROJECT_DIR$/node_modules/mysql/Readme.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/index.js" afterPath="$PROJECT_DIR$/node_modules/mysql/index.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/Connection.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/Connection.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/ConnectionConfig.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/ConnectionConfig.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/Pool.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/Pool.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/PoolCluster.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/PoolCluster.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/PoolConfig.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/PoolConfig.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/PoolConnection.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/PoolConnection.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/PoolNamespace.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/PoolNamespace.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/PoolSelector.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/PoolSelector.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/Auth.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/Auth.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/BufferList.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/BufferList.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/PacketHeader.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/PacketHeader.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/PacketWriter.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/PacketWriter.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/Parser.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/Parser.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/Protocol.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/Protocol.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/ResultSet.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/ResultSet.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/SqlString.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/SqlString.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/charsets.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/charsets.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/client.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/client.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/errors.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/errors.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/field_flags.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/field_flags.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/server_status.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/server_status.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/ssl_profiles.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/ssl_profiles.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/types.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/types.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ClientAuthenticationPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ClientAuthenticationPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComChangeUserPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComChangeUserPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComPingPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComPingPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComQueryPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComQueryPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComQuitPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComQuitPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComStatisticsPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComStatisticsPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/EmptyPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/EmptyPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/EofPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/EofPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ErrorPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ErrorPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/Field.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/Field.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/FieldPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/FieldPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/HandshakeInitializationPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/HandshakeInitializationPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/LocalDataFilePacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/LocalDataFilePacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/OkPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/OkPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/OldPasswordPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/OldPasswordPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ResultSetHeaderPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ResultSetHeaderPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/RowDataPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/RowDataPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/SSLRequestPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/SSLRequestPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/StatisticsPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/StatisticsPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/UseOldPasswordPacket.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/UseOldPasswordPacket.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/index.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/index.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/ChangeUser.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/ChangeUser.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Handshake.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Handshake.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Ping.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Ping.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Query.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Query.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Quit.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Quit.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Sequence.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Sequence.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Statistics.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Statistics.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/index.js" afterPath="$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/index.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mysql/package.json" afterPath="$PROJECT_DIR$/node_modules/mysql/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sqlstring/HISTORY.md" afterPath="$PROJECT_DIR$/node_modules/sqlstring/HISTORY.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sqlstring/LICENSE" afterPath="$PROJECT_DIR$/node_modules/sqlstring/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sqlstring/README.md" afterPath="$PROJECT_DIR$/node_modules/sqlstring/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sqlstring/index.js" afterPath="$PROJECT_DIR$/node_modules/sqlstring/index.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sqlstring/lib/SqlString.js" afterPath="$PROJECT_DIR$/node_modules/sqlstring/lib/SqlString.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sqlstring/package.json" afterPath="$PROJECT_DIR$/node_modules/sqlstring/package.json" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/test.js" afterPath="$PROJECT_DIR$/test.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,8 +118,18 @@
       <file leaf-file-name="sqlDAO.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Server/sqlDAO.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1628">
-              <caret line="74" column="29" lean-forward="false" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+            <state relative-caret-position="251">
+              <caret line="130" column="7" lean-forward="true" selection-start-line="130" selection-start-column="7" selection-end-line="130" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -46,90 +138,38 @@
       <file leaf-file-name="sqlTest.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Server/sqlTest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="132">
+              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="department.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home/department.html">
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2332">
-              <caret line="106" column="37" lean-forward="false" selection-start-line="106" selection-start-column="37" selection-end-line="106" selection-end-column="37" />
-              <folding>
-                <element signature="n#style#0;n#input#0;n#label#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AssignHouse.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home/AssignHouse.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="330">
+              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="message.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home/message.html">
+      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server/config.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="132">
+              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="signup.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="signup.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Home/signup.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myMaterial.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/myMaterial.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="media.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/media.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HouseManage.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home/HouseManage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="50" lean-forward="false" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
-              <caret line="75" column="30" lean-forward="false" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
+              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -143,12 +183,15 @@
         <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JSON File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>destroy</find>
       <find>end</find>
+      <find>query</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -171,10 +214,7 @@
         <option value="$PROJECT_DIR$/Home/department.html" />
         <option value="$PROJECT_DIR$/xlsx/parsexlsx.js" />
         <option value="$PROJECT_DIR$/Server/myRoute.js" />
-        <option value="$PROJECT_DIR$/Server/config.js" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/4269f987-fd33-4ffe-8a5f-e41c617bb25d/console.sql" />
-        <option value="$PROJECT_DIR$/Server/sqlDAO.js" />
-        <option value="$PROJECT_DIR$/Server/sqlTest.js" />
         <option value="$PROJECT_DIR$/css/myMaterial.css" />
         <option value="$PROJECT_DIR$/css/media.css" />
         <option value="$PROJECT_DIR$/Home/房产管理.html" />
@@ -182,6 +222,11 @@
         <option value="$PROJECT_DIR$/Home/信息展示.html" />
         <option value="$PROJECT_DIR$/Home/AssignHouse.html" />
         <option value="$PROJECT_DIR$/Home/HouseManage.html" />
+        <option value="$PROJECT_DIR$/Server/config.js" />
+        <option value="$PROJECT_DIR$/Server/sqlTest.js" />
+        <option value="$PROJECT_DIR$/Server/config.json" />
+        <option value="$PROJECT_DIR$/Server/sqlDAO.js" />
+        <option value="$PROJECT_DIR$/test.js" />
       </list>
     </option>
   </component>
@@ -226,67 +271,52 @@
             <id />
           </State>
           <State>
-            <id>Android &gt; Lint &gt; Correctness</id>
-          </State>
-          <State>
             <id>CSS</id>
           </State>
           <State>
-            <id>Class structureJava</id>
+            <id>Code SmellPHP</id>
           </State>
           <State>
-            <id>Code maturity issuesJava</id>
+            <id>Code StylePHP</id>
           </State>
           <State>
-            <id>Code style issuesJava</id>
+            <id>Code style issuesCSS</id>
           </State>
           <State>
-            <id>Google Web Toolkit issues</id>
+            <id>Control flow issuesJavaScript</id>
           </State>
           <State>
-            <id>JUnit issuesJava</id>
+            <id>DOM issuesJavaScript</id>
           </State>
           <State>
-            <id>Java</id>
+            <id>General</id>
           </State>
           <State>
-            <id>Java 5Java language level migration aidsJava</id>
+            <id>GeneralJavaScript</id>
           </State>
           <State>
-            <id>Java 7Java language level migration aidsJava</id>
+            <id>HTML</id>
           </State>
           <State>
-            <id>Java 8Java language level migration aidsJava</id>
+            <id>Invalid elementsCSS</id>
           </State>
           <State>
-            <id>Java language level migration aidsJava</id>
+            <id>JavaScript</id>
           </State>
           <State>
-            <id>Javadoc issuesJava</id>
-          </State>
-          <State>
-            <id>Performance issuesJava</id>
+            <id>PHP</id>
           </State>
           <State>
             <id>Probable bugsCSS</id>
           </State>
           <State>
-            <id>Probable bugsJava</id>
+            <id>Probable bugsPHP</id>
           </State>
           <State>
             <id>RELAX NG</id>
           </State>
           <State>
-            <id>Spring</id>
-          </State>
-          <State>
-            <id>Spring AOPSpring</id>
-          </State>
-          <State>
-            <id>TestNGJava</id>
-          </State>
-          <State>
-            <id>Threading issuesJava</id>
+            <id>SQL</id>
           </State>
           <State>
             <id>XPath</id>
@@ -297,7 +327,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Android</id>
+            <id>PhpTraditionalSyntaxArrayLiteralInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -357,14 +387,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.4.0" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -390,7 +419,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.myServer.js">
+  <component name="RunManager" selected="Node.js.test.js">
+    <configuration name="myServer.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="myServer.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="parsexlsx.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="parsexlsx.js" working-dir="$PROJECT_DIR$/xlsx" />
+    <configuration name="sqlTest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="sqlTest.js" working-dir="$PROJECT_DIR$/Server" />
+    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$" />
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -471,19 +504,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <configuration name="myServer.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="myServer.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="parsexlsx.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="parsexlsx.js" working-dir="$PROJECT_DIR$/xlsx" />
-    <configuration name="sqlTest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="sqlTest.js" working-dir="$PROJECT_DIR$/Server" />
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.bin/www" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.myServer.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.parsexlsx.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.sqlTest.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.sqlTest.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.parsexlsx.js" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.sqlTest.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.parsexlsx.js" />
       </list>
     </recent_temporary>
   </component>
@@ -516,6 +548,8 @@
       <workItem from="1509680720770" duration="6179000" />
       <workItem from="1510052598258" duration="6036000" />
       <workItem from="1512405231785" duration="493000" />
+      <workItem from="1512476148514" duration="457000" />
+      <workItem from="1512476667198" duration="20036000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1512405592911</created>
@@ -528,7 +562,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67308000" />
+    <option name="totallyTimeSpent" value="87801000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -542,17 +576,19 @@
   <component name="ToolWindowManager">
     <frame x="10" y="23" width="1379" height="877" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2707554" sideWeight="0.47453415" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5026178" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27599102" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3005115" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25960842" sideWeight="0.52546585" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3005115" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25960842" sideWeight="0.52546585" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39897698" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27823484" sideWeight="0.47453415" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27599102" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39897698" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -568,7 +604,6 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.4973822" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -587,74 +622,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Server/encrypt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server/myRoute.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0baf24c9-180b-444a-b830-d00ea6927e2b/console.sql" />
-    <entry file="das://table:/7f7f3a9c/0baf24c9-180b-444a-b830-d00ea6927e2b/js_db.User">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1452">
-          <caret line="66" column="31" lean-forward="false" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/myJs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server/encrypt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/404error.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server/myRoute.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="46" column="41" lean-forward="false" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/404error.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -666,7 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
           <caret line="46" column="41" lean-forward="true" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -748,7 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1562">
           <caret line="71" column="23" lean-forward="false" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,14 +765,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Server/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://table:/7f7f3a9c/4269f987-fd33-4ffe-8a5f-e41c617bb25d/fangdichan.test">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -821,22 +777,6 @@
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server/sqlTest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server/sqlDAO.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1628">
-          <caret line="74" column="29" lean-forward="false" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,7 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -872,16 +811,8 @@
         <state relative-caret-position="2332">
           <caret line="106" column="37" lean-forward="false" selection-start-line="106" selection-start-column="37" selection-end-line="106" selection-end-column="37" />
           <folding>
-            <element signature="n#style#0;n#input#0;n#label#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/AssignHouse.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -909,10 +840,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Home/AssignHouse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/lib/PoolConnection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="52" column="29" lean-forward="false" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/sqlstring/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/lib/protocol/SqlString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-buffer-stub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Home/signup.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/lib/Connection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="193" column="24" lean-forward="false" selection-start-line="193" selection-start-column="24" selection-end-line="193" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/lib/Pool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="38" lean-forward="false" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/sqlDAO.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="130" column="7" lean-forward="true" selection-start-line="130" selection-start-column="7" selection-end-line="130" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/sqlTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding />
         </state>
       </provider>
